@@ -16,3 +16,4 @@ downloads
 bot.session*
 terabox.txt
 rclone.conf
+!.claude/settings.json
